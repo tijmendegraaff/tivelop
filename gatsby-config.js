@@ -4,7 +4,7 @@ module.exports = {
     author: "Hunter Chang",
     description: "A Gatsby.js Starter based on Forty by HTML5 UP"
   },
-  pathPrefix: '/',
+  pathPrefix: '/tivelop',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
