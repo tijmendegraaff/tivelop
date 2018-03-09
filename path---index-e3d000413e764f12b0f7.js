@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{347:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Tivelop",description:"Tivelop portfolio page"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-e3d000413e764f12b0f7.js.map
